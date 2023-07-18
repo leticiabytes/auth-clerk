@@ -10,5 +10,8 @@
   },
   "devDependencies": {
     "@types/react": "^18.2.15"
+  },
+  "dependencies": {
+    "@clerk/nextjs": "^4.22.0"
   }
 }
