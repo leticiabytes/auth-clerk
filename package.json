@@ -12,6 +12,8 @@
     "@types/react": "^18.2.15"
   },
   "dependencies": {
-    "@clerk/nextjs": "^4.22.0"
+    "@clerk/localizations": "^1.23.0",
+    "@clerk/nextjs": "^4.22.0",
+    "@clerk/themes": "^1.7.5"
   }
 }
