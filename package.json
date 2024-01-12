@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@clerk/localizations": "^1.23.0",
-    "@clerk/nextjs": "^4.22.0",
+    "@clerk/nextjs": "^4.29.3",
     "@clerk/themes": "^1.7.5"
   }
 }
